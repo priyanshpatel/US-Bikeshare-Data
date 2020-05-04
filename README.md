@@ -13,10 +13,10 @@ To run this code, Python 2.x is required.
 ## Contents
 
 The following files are included to run this project:
-*bikeshare_2.py: A python file which loads bikeshare data for each mentioned city and uses Numpy and Panda libraries to display statistics according to the user input.
-*chicago.csv: Contains raw bikeshare data for Chicago.
-*new_york_city.csv: Contains raw bikeshare data for New York city.
-*Washington.csv: Contains raw bikeshare data for Washington.
+* bikeshare_2.py: A python file which loads bikeshare data for each mentioned city and uses Numpy and Panda libraries to display statistics according to the user input.
+* chicago.csv: Contains raw bikeshare data for Chicago.
+* new_york_city.csv: Contains raw bikeshare data for New York city.
+* Washington.csv: Contains raw bikeshare data for Washington.
 
 Note: Please download the .csv files from [here](https://drive.google.com/open?id=1HsRrrlp6l11QPT8dTSsz8sEeV9KWXZjJ)
 
