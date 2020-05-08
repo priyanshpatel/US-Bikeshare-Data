@@ -23,7 +23,7 @@ Note: Please download the .csv files from [here](https://drive.google.com/open?i
 ## Steps to Run Project
 
 * Clone or download this repository to your computer.
-* Download .csv files from the mentioned link.
+* Download .csv files from the mentioned link and make sure to paste them in the same directory as this repository.
 * Open the terminal editor. Command Prompt for Windows and Terminal in Linux or Mac.
 * Navigate to the directory of the project using the terminal editor.
 * Run the following command: 
